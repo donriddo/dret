@@ -37,6 +37,10 @@ SolnSquareVerifier Transaction Hash: **0xfadbdd2dbf28c568dc27fd6af7f5c4295dd0901
 
 SolnSquareVerifier Contract Address: **0xcAFea810B9eE6286c338C67769f51eBDd1381329**
 
+### OpenSea Storefront Link
+- https://rinkeby.opensea.io/storefront/donriddo-real-estate-token
+
+
 ### Some of the tokens have been listed on OpenSea
 - https://rinkeby.opensea.io/assets/0xcafea810b9ee6286c338c67769f51ebdd1381329/1
 
